@@ -2,16 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="45595179-51f3-4ae2-a70f-76b4f575e2fd" name="Changes" comment="Update to codes">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/primitiveTypes/BooleanExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/primitiveTypes/ByteExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/primitiveTypes/InitExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/primitiveTypes/LongExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/primitiveTypes/ShortExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Challenge/PoundsToKilograms.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Challenge/PrimitiveTypesChallenge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/casting/Casting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/primitiveTypes/CharExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/primitiveTypes/DoubleExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/primitiveTypes/FloatExample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Hello.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Hello.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/primitiveTypes/Byte.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Hello.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,9 +48,9 @@
     "nodejs_package_manager_path": "npm"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.LongExample">
-    <configuration name="Byte" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="primitiveTypes.Byte" />
+  <component name="RunManager" selected="Application.CharExample">
+    <configuration name="CharExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="primitiveTypes.CharExample" />
       <module name="Code-With-tim" />
       <extension name="coverage">
         <pattern>
@@ -64,8 +62,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ByteExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="primitiveTypes.ByteExample" />
+    <configuration name="DoubleExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="primitiveTypes.DoubleExample" />
       <module name="Code-With-tim" />
       <extension name="coverage">
         <pattern>
@@ -77,15 +75,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Hello" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Hello" />
-      <module name="Code-With-tim" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LongExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="primitiveTypes.LongExample" />
+    <configuration name="FloatExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="primitiveTypes.FloatExample" />
       <module name="Code-With-tim" />
       <extension name="coverage">
         <pattern>
@@ -97,12 +88,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ShortExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="primitiveTypes.ShortExample" />
+    <configuration name="PoundsToKilograms" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Challenge.PoundsToKilograms" />
       <module name="Code-With-tim" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="primitiveTypes.*" />
+          <option name="PATTERN" value="Challenge.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PrimitiveTypesChallenge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Challenge.PrimitiveTypesChallenge" />
+      <module name="Code-With-tim" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Challenge.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,11 +116,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.LongExample" />
-        <item itemvalue="Application.ShortExample" />
-        <item itemvalue="Application.ByteExample" />
-        <item itemvalue="Application.Byte" />
-        <item itemvalue="Application.Hello" />
+        <item itemvalue="Application.CharExample" />
+        <item itemvalue="Application.PoundsToKilograms" />
+        <item itemvalue="Application.DoubleExample" />
+        <item itemvalue="Application.FloatExample" />
+        <item itemvalue="Application.PrimitiveTypesChallenge" />
       </list>
     </recent_temporary>
   </component>
@@ -130,7 +134,7 @@
       <updated>1667845925149</updated>
       <workItem from="1667845927984" duration="3732000" />
       <workItem from="1667850846453" duration="1249000" />
-      <workItem from="1667872628245" duration="2071000" />
+      <workItem from="1667872628245" duration="7209000" />
     </task>
     <task id="LOCAL-00001" summary="Update to codes">
       <created>1667872318196</created>
@@ -153,7 +157,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667873269210</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Update to codes">
+      <created>1667874807913</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1667874807913</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
