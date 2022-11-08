@@ -9,5 +9,9 @@ public class Byte {
 
         System.out.println("Integer Minimum Value = " + myMinIntValue);
         System.out.println("Integer Maximum Value = " + myMaxIntValue );
+
+        System.out.println("Busted Max value = " + (myMaxIntValue + 1));
+        System.out.println("Busted Min value = " + (myMinIntValue - 1));
+
     }
 }
