@@ -1,7 +1,9 @@
 package primitiveTypes;
 
-public class Byte {
+public class InitExample {
     public static void main(String[] args) {
+        // An int occupies 32 bit
+        // An int has a width of 32
 
         int myValue = 10000;
         int myMinIntValue = Integer.MIN_VALUE;
